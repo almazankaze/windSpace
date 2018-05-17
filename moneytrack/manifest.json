@@ -1,0 +1,8 @@
+{
+  "name": "MoneyTrack",
+  "short_name": "MoneyTrack",
+  "start_url": "https://preview.c9users.io/almazankaze/my-projects/moneytrack/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A simple budget tracker app."
+}

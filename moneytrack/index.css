@@ -1,0 +1,53 @@
+.card {
+    
+    max-width: 30rem;
+    text-align: center;
+}
+
+#adding {
+    
+    display: none;
+}
+
+#editing {
+    
+    display: none;
+}
+
+#removeButton {
+    
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -o-transition-duration: 0.3;
+    transition-duration: 0.3s;
+    cursor: pointer;
+    
+}
+
+#removeButton:hover {
+    
+    color: blue;
+}
+
+#edit {
+    
+    padding-right : 20px;
+    float:right;
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -o-transition-duration: 0.3;
+    transition-duration: 0.3s;
+    cursor: pointer;
+    
+}
+
+#edit:hover {
+    
+    color: blue;
+    
+}
+
+input {
+    
+    width: 40%;
+}
